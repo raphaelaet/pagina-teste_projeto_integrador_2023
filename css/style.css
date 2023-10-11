@@ -6,7 +6,7 @@
 }
 
 body {
-    background-image: url(/imagens/fundositeteste.png);
+    background-image: url("../imagens/fundositeteste.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
